@@ -80,6 +80,7 @@ section {
 
 .icone, .icone-dolar {
     width: 44px;
+    box-shadow: #555555;
 }
 
 .arrow {
