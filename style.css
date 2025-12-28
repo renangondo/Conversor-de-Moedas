@@ -78,7 +78,7 @@ section {
     align-items: center;
 }
 
-.icone {
+.icone, .icone-dolar {
     width: 44px;
 }
 
@@ -101,7 +101,7 @@ section {
 
 }
 
-.currency-value {
+.currency-value, .currency-value-to-convert {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
